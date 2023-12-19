@@ -5,7 +5,9 @@ import pyfiglet
 
 logo = pyfiglet.figlet_format("incress Probot xp By Ghalwash")
 print(logo)
+print('Old Version ==> V1.0')
 print("")
+
 
 choice = input('Choose an option:\n1. Enter data manually\n2. Import data from file\n')
 
